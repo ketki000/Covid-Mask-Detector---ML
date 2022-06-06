@@ -9,9 +9,9 @@ I have created a mask detector using SVC(Support Vector Classifier)
 4. Pandas - Data manipulation
 5. Sklearn - model selection and analysing
 6. Skimage - image preprocessing - Multi-dimensional NumPy arrays
-7.Support Vector Machine - SVC
+7. Support Vector Machine - SVC
 
 
-#End Result 
+# End Result 
 
 Classifies any input image into 2 categories - mask or without mask
